@@ -1,0 +1,20 @@
+.headerNoti {
+    font-size: 22px;
+    font-weight: 700;
+    color: greenyellow;
+
+}
+
+.containerNoti {
+    background-color: rgb(0, 0, 0);
+    color: green;
+    padding: 10px;
+    margin-bottom: 6px;
+    margin-top: 6px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 979px;
+
+
+    
+}

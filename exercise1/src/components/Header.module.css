@@ -1,0 +1,62 @@
+.headerBackground{
+ display: flex;
+ background-color: rgb(0, 0, 0);
+ font-size: 19px;
+ margin-left: auto;
+ margin-right: auto;
+ padding: 2%;
+
+}
+
+.container {
+    display: flex;
+    width: 80%;
+    color: white;
+    align-items: center;
+    padding: 2px;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+
+.brand {
+    display: flex;
+    font-size: 22px;
+    font-weight: 721;
+    max-width: 1000px;
+    margin-left: 0px;
+    margin-right: 42px;
+    color: green;
+
+}
+
+.frontpageText {
+
+    margin-left: 12px;
+}
+
+.frontpageText2{
+    margin-left: 12px;
+
+}
+
+.frontpageText3{
+
+    margin-left: 12px;
+    margin-right: 167px;
+
+}
+
+.logIn{
+    display: flex;
+    font-weight: 22px;
+
+
+}
+
+.TKV {
+    margin-left: 12px;
+}
+
+

@@ -1,0 +1,44 @@
+.headerSide {
+    font-size: 22px;
+    font-weight: 700;
+    color: rgb(38, 165, 70);
+   
+}
+
+.containerSide{
+    background-color: rgb(31, 23, 12);
+    font-size: 17px;
+    width: 100%;
+    margin-right: 6px;
+    border-bottom: solid;
+    border-width: 1px;
+}
+
+.number{
+
+    font-size: 29px;
+    font-weight: 400;
+    color: greenyellow;
+    float: left;
+    margin-left: 9px;
+    padding: 12px;
+    
+
+}
+
+.text{
+
+    font-size: 15px;
+    margin-left: 44px;
+    margin-right: auto;
+    margin-bottom: auto;
+    height: auto;
+    padding: 13px;
+
+}
+
+.topic{
+    font-size: 21px;
+    font-weight: 600;
+    color: greenyellow; 
+}
