@@ -1,0 +1,47 @@
+.name
+{
+  font-weight: 600;
+  margin-top: 7px;
+  margin-bottom: 10px;
+  font-size: 21px;
+  font-family: "Amazon Ember",Arial,sans-serif;
+}
+
+.rating
+{
+  margin-top: 7px;
+  margin-bottom: 10px;
+}
+
+.product
+{
+  width: 90%;
+  font-weight: 600;
+  box-sizing: border-box;
+  padding: 23px;
+  font-family: "Amazon Ember",Arial,sans-serif;
+  
+
+}
+
+input[type="radio"] {
+  display: none;
+}
+
+.star {
+  cursor: pointer;
+  transition: color 200ms;
+}
+
+.outOf{
+  margin-top: auto;
+  color: #E28560;
+}
+
+.price{
+  font-size: 23px;
+  color: rgb(0, 0, 0);
+  border-bottom: solid;
+  border-width: 1px;
+  margin-bottom: 12px;
+}

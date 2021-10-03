@@ -1,0 +1,25 @@
+.amazonbar
+{
+  font-weight: 600;
+  font-size: 31px;
+  color: white;
+  background-color: rgb(44, 53, 78);
+  padding: 13px;
+  display: flex;
+  margin-left: -8px;
+  margin-right: -8px;
+  margin-top: -8px;
+  font-family: Arial,sans-serif;
+}
+
+
+.search
+{
+    font-size: 14px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+    margin-left: 10%;
+    font-family: Arial,sans-serif;
+}
+
